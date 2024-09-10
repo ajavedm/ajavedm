@@ -1,6 +1,15 @@
-## Hi there 👋
+# Hey there, I'm Asif Javed! 👋  
+
+<a href="https://github.com/ajavedm" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+## 👨‍🎓 Bio
+  
+### Welcome to my Github Page!  
 
 <!--
+## Hi there 👋
 **ajavedm/ajavedm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
