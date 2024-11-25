@@ -7,7 +7,7 @@
 ## 👨‍🎓 Bio
   
 ### Welcome to my Github Page!  
-
+<img src=https://github.com/ajavedm/ajavedm/blob/main/stack-overflow.jpg" />
 <!--
 ## Hi there 👋
 **ajavedm/ajavedm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
